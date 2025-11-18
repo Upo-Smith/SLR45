@@ -366,9 +366,6 @@ f0001_us_f0001_00365.wav	A lot of people thought  it was a publicity stunt for t
 f0001_us_f0001_00366.wav	Year after year after year
 f0001_us_f0001_00367.wav	and then went to the couple in the booth next to us
 f0001_us_f0001_00368.wav	And here's how news shapes what Americans see.
-f0001_us_f0001_00369.wav	
-f0001_us_f0001_00370.wav	
-f0001_us_f0001_00371.wav	
 f0001_us_f0001_00372.wav	People like Mahmoud are agents of change.
 f0001_us_f0001_00373.wav	And how they're distributed really contributes to their underlying function.
 f0001_us_f0001_00374.wav	you don't have to remember anything.
@@ -3342,7 +3339,6 @@ m0004_us_m0004_00118.wav	or a suburban family donating a box of clothes they don
 m0004_us_m0004_00119.wav	but it was for any kind of patient.
 m0004_us_m0004_00120.wav	what you wanted all along.
 m0004_us_m0004_00121.wav	I'm not sure why you're laughing.
-m0004_us_m0004_00122.wav	
 m0004_us_m0004_00123.wav	by magazines and other media outlets
 m0004_us_m0004_00124.wav	This is a merry-go-round invented by the company Roundabout
 m0004_us_m0004_00125.wav	If you had based your prediction
